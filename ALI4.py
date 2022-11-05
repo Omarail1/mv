@@ -4,7 +4,7 @@ import os,random,string
 from os import system
 import subprocess as sp
 # ctypes.windll.kernel32.SetConsoleTitleA("Powered BY ALI SHAREEF")
-system("title " + "Powered By ALI SHAREEF ")
+# system("title " + "Powered By ALI SHAREEF ")
 # os.system('pip install faker')
 # os.system('pip install colorama')
 # os.system('pip install bs4')
