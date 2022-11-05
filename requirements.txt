@@ -1,0 +1,4 @@
+faker
+colorama
+bs4
+requests
